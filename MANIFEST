@@ -9,7 +9,6 @@ lib/URL/Transform/using/Remove.pm
 lib/URL/Transform/using/XML/SAX.pm
 MANIFEST			This list of files
 META.yml
-MYMETA.json
 README
 t/01_URL-Transform.t
 t/02_URL-Transform-using-CSS-RegExp.t
